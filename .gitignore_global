@@ -1,0 +1,9 @@
+# Global ignores
+.DS_Store
+Thumbs.db
+*.tmp
+*.temp
+*.log
+*.bak
+*.swp
+*~
